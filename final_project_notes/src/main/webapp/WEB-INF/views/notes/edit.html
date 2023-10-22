@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Update note</title>
+</head>
+<body>
+    <form th:method="PATCH" th:action="@{/notes/{id}(id=${myNote.getId()})}" th:object="${myNote}">
+        <label class="inform" for="note">Enter text:</label>
+        <input class="inform" type="text" th:field="*{note}" id="note"/>
+        <br/>
+        <button class="button" style="color: green;" type="submit">Update Note</button>
+        <button class="button" onclick="location.href='/noteswebapp/notes/back'" type="button">Go back</button>
+    </form>
+</body>
+</html>

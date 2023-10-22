@@ -1,0 +1,204 @@
+22-Oct-2023 23:53:33.156 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.14
+22-Oct-2023 23:53:33.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 9 2023 21:01:11 UTC
+22-Oct-2023 23:53:33.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.14.0
+22-Oct-2023 23:53:33.163 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\BudnikowPC\.jdks\openjdk-21.0.1
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.1+12-29
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:53:33.164 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:53:33.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Oct-2023 23:53:33.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DENV=DEV
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\temp
+22-Oct-2023 23:53:33.176 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\logging.properties
+22-Oct-2023 23:53:33.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Oct-2023 23:53:33.178 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=42559:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin
+22-Oct-2023 23:53:33.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Oct-2023 23:53:33.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+22-Oct-2023 23:53:33.179 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+22-Oct-2023 23:53:33.182 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+22-Oct-2023 23:53:33.188 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+22-Oct-2023 23:53:33.634 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:33.648 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [661] milliseconds
+22-Oct-2023 23:53:33.684 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Oct-2023 23:53:33.684 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.14]
+22-Oct-2023 23:53:33.695 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\notes.xml]
+22-Oct-2023 23:53:34.103 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\notes.xml] has finished in [408] ms
+22-Oct-2023 23:53:34.106 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:34.127 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [477] milliseconds
+22-Oct-2023 23:53:41.186 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:41.188 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Oct-2023 23:53:41.199 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:41.202 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:51.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.14
+22-Oct-2023 23:53:51.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 9 2023 21:01:11 UTC
+22-Oct-2023 23:53:51.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.14.0
+22-Oct-2023 23:53:51.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Oct-2023 23:53:51.197 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Oct-2023 23:53:51.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Oct-2023 23:53:51.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\BudnikowPC\.jdks\openjdk-21.0.1
+22-Oct-2023 23:53:51.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.1+12-29
+22-Oct-2023 23:53:51.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Oct-2023 23:53:51.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:53:51.198 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DENV=DEV
+22-Oct-2023 23:53:51.206 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:53:51.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:53:51.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\temp
+22-Oct-2023 23:53:51.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\logging.properties
+22-Oct-2023 23:53:51.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Oct-2023 23:53:51.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=42575:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin
+22-Oct-2023 23:53:51.207 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Oct-2023 23:53:51.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+22-Oct-2023 23:53:51.208 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+22-Oct-2023 23:53:51.210 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+22-Oct-2023 23:53:51.215 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+22-Oct-2023 23:53:51.612 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:51.648 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [624] milliseconds
+22-Oct-2023 23:53:51.684 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Oct-2023 23:53:51.684 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.14]
+22-Oct-2023 23:53:51.694 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml]
+22-Oct-2023 23:53:53.800 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Oct-2023 23:53:55.874 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml] has finished in [4,179] ms
+22-Oct-2023 23:53:55.877 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:53:55.896 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4246] milliseconds
+22-Oct-2023 23:54:02.654 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:54:02.656 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Oct-2023 23:54:02.667 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:54:02.682 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:54:44.897 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.14
+22-Oct-2023 23:54:44.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 9 2023 21:01:11 UTC
+22-Oct-2023 23:54:44.903 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.14.0
+22-Oct-2023 23:54:44.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Oct-2023 23:54:44.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Oct-2023 23:54:44.904 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Oct-2023 23:54:44.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\BudnikowPC\.jdks\openjdk-21.0.1
+22-Oct-2023 23:54:44.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.1+12-29
+22-Oct-2023 23:54:44.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Oct-2023 23:54:44.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:54:44.905 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DENV=DEV
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:54:44.915 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:54:44.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\temp
+22-Oct-2023 23:54:44.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\logging.properties
+22-Oct-2023 23:54:44.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Oct-2023 23:54:44.916 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=42603:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin
+22-Oct-2023 23:54:44.917 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Oct-2023 23:54:44.918 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+22-Oct-2023 23:54:44.918 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+22-Oct-2023 23:54:44.920 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+22-Oct-2023 23:54:44.926 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+22-Oct-2023 23:54:45.280 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:54:45.298 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [610] milliseconds
+22-Oct-2023 23:54:45.338 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Oct-2023 23:54:45.338 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.14]
+22-Oct-2023 23:54:45.348 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml]
+22-Oct-2023 23:54:47.600 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Oct-2023 23:54:49.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml] has finished in [4,302] ms
+22-Oct-2023 23:54:49.653 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:54:49.671 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4371] milliseconds
+22-Oct-2023 23:56:31.071 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:56:31.073 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Oct-2023 23:56:31.088 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:56:31.105 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:57:13.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.14
+22-Oct-2023 23:57:13.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 9 2023 21:01:11 UTC
+22-Oct-2023 23:57:13.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.14.0
+22-Oct-2023 23:57:13.966 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Oct-2023 23:57:13.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Oct-2023 23:57:13.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Oct-2023 23:57:13.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\BudnikowPC\.jdks\openjdk-21.0.1
+22-Oct-2023 23:57:13.967 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.1+12-29
+22-Oct-2023 23:57:13.968 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Oct-2023 23:57:13.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:57:13.969 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DENV=DEV
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\temp
+22-Oct-2023 23:57:13.978 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\logging.properties
+22-Oct-2023 23:57:13.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Oct-2023 23:57:13.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=42634:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin
+22-Oct-2023 23:57:13.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Oct-2023 23:57:13.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+22-Oct-2023 23:57:13.979 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+22-Oct-2023 23:57:13.982 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+22-Oct-2023 23:57:13.987 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+22-Oct-2023 23:57:14.330 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:57:14.347 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [571] milliseconds
+22-Oct-2023 23:57:14.386 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Oct-2023 23:57:14.387 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.14]
+22-Oct-2023 23:57:14.397 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml]
+22-Oct-2023 23:57:16.562 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Oct-2023 23:57:18.667 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml] has finished in [4,270] ms
+22-Oct-2023 23:57:18.670 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:57:18.687 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4339] milliseconds
+22-Oct-2023 23:57:29.591 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:57:29.593 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Oct-2023 23:57:29.603 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:57:29.607 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:58:22.221 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.14
+22-Oct-2023 23:58:22.224 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 9 2023 21:01:11 UTC
+22-Oct-2023 23:58:22.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.14.0
+22-Oct-2023 23:58:22.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+22-Oct-2023 23:58:22.225 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+22-Oct-2023 23:58:22.226 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+22-Oct-2023 23:58:22.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Users\BudnikowPC\.jdks\openjdk-21.0.1
+22-Oct-2023 23:58:22.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           21.0.1+12-29
+22-Oct-2023 23:58:22.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+22-Oct-2023 23:58:22.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:58:22.227 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:58:22.236 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+22-Oct-2023 23:58:22.236 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+22-Oct-2023 23:58:22.236 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -DENV=DEV
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=E:\AllFileAleksey\lms\final_project_workspace\apache-tomcat-10.1.14
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\temp
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\logging.properties
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+22-Oct-2023 23:58:22.237 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\lib\idea_rt.jar=42650:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin
+22-Oct-2023 23:58:22.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+22-Oct-2023 23:58:22.238 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stdout.encoding=UTF-8
+22-Oct-2023 23:58:22.239 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.stderr.encoding=UTF-8
+22-Oct-2023 23:58:22.241 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.6] using APR version [1.7.4].
+22-Oct-2023 23:58:22.246 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+22-Oct-2023 23:58:22.653 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:58:22.672 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [617] milliseconds
+22-Oct-2023 23:58:22.734 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+22-Oct-2023 23:58:22.734 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.14]
+22-Oct-2023 23:58:22.744 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml]
+22-Oct-2023 23:58:24.988 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+22-Oct-2023 23:58:27.039 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\AllFileAleksey\lms\final_project_workspace\final_project_notes\conf\Catalina\localhost\webapp.xml] has finished in [4,295] ms
+22-Oct-2023 23:58:27.042 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:58:27.060 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [4386] milliseconds
+22-Oct-2023 23:58:36.985 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:58:36.989 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+22-Oct-2023 23:58:37.003 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+22-Oct-2023 23:58:37.022 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

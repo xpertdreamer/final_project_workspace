@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>All notes</title>
+</head>
+<body>
+    <div class="button-38" th:each="note : ${notes}">
+        <a th:href="@{/notes/{id} (id=${note.getId()})}"   th:text="${note.getNote()}">note</a>
+    </div>
+
+    <br/>
+
+    <button class="button" style="color: black;" onclick="location.href='notes/new'" type="button">Create new note</button>
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>New note</title>
+</head>
+<body>
+    <form th:method="POST" th:action="@{/notes}" th:object="${myNote}">
+        <label class="inform" for="note">Enter text:</label>
+        <input class="inform" type="text" th:field="*{note}" id="note"/>
+        <br/>
+        <button class="button" style="color: green;" type="submit">Confirm creating</button>
+        <button class="button" style="color: red;" onclick="location.href='/noteswebapp/notes/back'" type="button">Cancel</button>
+    </form>
+
+</body>
+</html>

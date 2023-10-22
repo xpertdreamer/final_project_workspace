@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Note</title>
+</head>
+<body>
+    <p id="note-text" th:text="${note.getNote()}">NOTE</p>
+    <p id="note-id" th:text="${note.getId()}">ID</p>
+
+    <form th:method="DELETE" th:action="@{/notes/{id}(id=${note.getId()})}">
+        <button class="button" type="button">
+            <a id="edit-link" style="color: black;" th:href="@{/notes/{id}/edit(id=${note.getId()})}">Edit this note</a>
+        </button>
+        <button class="button" style="color: red;" type="submit">Delete this note</button>
+        <button class="button" onclick="location.href='/noteswebapp/notes/back'" type="button">Go back</button>
+    </form>
+</body>
+</html>
